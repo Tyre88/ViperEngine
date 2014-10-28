@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ViperEngine", "ViperEngine\ViperEngine.csproj", "{B2F48E64-11A3-497A-B30D-4B69A328BEED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScreenManager", "..\ScreenManager\ScreenManager\ScreenManager.csproj", "{CBA0E864-822E-49B8-9776-168F016DC189}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Viper", "..\Viper\Viper\Viper.csproj", "{42D94976-26C9-4803-B14D-C20E16941BE4}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "ViperContent", "..\Viper\ViperContent\ViperContent.contentproj", "{7E2CE7A1-92AF-4E2A-BAFD-4343732509B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2F48E64-11A3-497A-B30D-4B69A328BEED}.Debug|x86.ActiveCfg = Debug|x86
+		{B2F48E64-11A3-497A-B30D-4B69A328BEED}.Debug|x86.Build.0 = Debug|x86
+		{B2F48E64-11A3-497A-B30D-4B69A328BEED}.Release|x86.ActiveCfg = Release|x86
+		{B2F48E64-11A3-497A-B30D-4B69A328BEED}.Release|x86.Build.0 = Release|x86
+		{CBA0E864-822E-49B8-9776-168F016DC189}.Debug|x86.ActiveCfg = Debug|x86
+		{CBA0E864-822E-49B8-9776-168F016DC189}.Debug|x86.Build.0 = Debug|x86
+		{CBA0E864-822E-49B8-9776-168F016DC189}.Release|x86.ActiveCfg = Release|x86
+		{CBA0E864-822E-49B8-9776-168F016DC189}.Release|x86.Build.0 = Release|x86
+		{42D94976-26C9-4803-B14D-C20E16941BE4}.Debug|x86.ActiveCfg = Debug|x86
+		{42D94976-26C9-4803-B14D-C20E16941BE4}.Debug|x86.Build.0 = Debug|x86
+		{42D94976-26C9-4803-B14D-C20E16941BE4}.Release|x86.ActiveCfg = Release|x86
+		{42D94976-26C9-4803-B14D-C20E16941BE4}.Release|x86.Build.0 = Release|x86
+		{7E2CE7A1-92AF-4E2A-BAFD-4343732509B4}.Debug|x86.ActiveCfg = Debug|x86
+		{7E2CE7A1-92AF-4E2A-BAFD-4343732509B4}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
